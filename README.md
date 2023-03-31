@@ -10,7 +10,7 @@ TypeScript
 Express
 c (database)
 
-Instalação através do CMD (Windowns)
+Instalação através do CMD (Windows)
 
 Criar uma pasta para o projeto. (mkdir NomeDaPasta);
 Acessar a pasta recém criada ( cd NomeDaPasta);
